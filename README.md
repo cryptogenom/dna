@@ -1,2 +1,2 @@
 # dna
-decentralized networking addressing
+decentralized networks aaknowledgement
